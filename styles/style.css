@@ -305,6 +305,8 @@ cursor: pointer;
 .footer p{
     color: rgba(250, 250, 250, 1);
     text-align: center;
+    margin: auto;
+    
 }
 .social h6{
     color: rgba(255, 255, 255, 1);
